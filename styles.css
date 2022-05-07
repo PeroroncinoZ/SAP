@@ -3,11 +3,25 @@
 } */
 
 
+
 .purple {
     color: purple;
-    background-color: gold;
+    
 }
 
 .big {
     font-size: 25px;
+}
+.blue{
+    color:rgb(9, 111, 151);
+}
+
+.Sdiv{
+    background-color: black;
+}
+body {
+    background-color: greenyellow;
+}
+.div1{
+    background-color: black;
 }
