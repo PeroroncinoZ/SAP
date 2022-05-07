@@ -17,11 +17,15 @@
 }
 
 .Sdiv{
-    background-color: black;
+    background-color: greenyellow;
 }
 body {
-    background-color: greenyellow;
+    background-color: black;
 }
 .div1{
     background-color: black;
+}
+p {
+    color:white;
+    font-size: 14;
 }
